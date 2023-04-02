@@ -1,9 +1,8 @@
 from utils import get_random_row
-from origamibot import OrigamiBot as Bot
 
 
 class BotsCommands:
-    def __init__(self, sql_cursor, bot: Bot):
+    def __init__(self, sql_cursor, bot):
         self.bot = bot
         self.cursor = sql_cursor
 
