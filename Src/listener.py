@@ -1,4 +1,3 @@
-import logging
 from utils import get_random_row
 from random import randint
 from origamibot.listener import Listener
