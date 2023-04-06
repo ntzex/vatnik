@@ -17,7 +17,7 @@
 Потом
 ```
 > python -m virtualenv .
-> Scripts/activate.bat
+> Scripts\activate.bat
 > pip install -r requirements.txt
 > launch.bat
 ```
